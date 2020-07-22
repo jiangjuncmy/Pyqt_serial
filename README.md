@@ -1,4 +1,5 @@
-# tools
-Ascend development tools, including the DDK, Mind Studio tool package, mini system package, Atlas 200 DK card manufacturing script, and environment configuration script.
+项目依赖库：
 
-For Details about how to prepare the Atlas 200 DK card and how to configure the Atlas 200 DK, see the [Atlas 200 DK Product Documentation](https://ascend.huawei.com/documentation).
+1. pyserial    pip install pyserial
+2. PyQt5       pip install PyQt5 -i https://pypi.douban.com/simple
+
